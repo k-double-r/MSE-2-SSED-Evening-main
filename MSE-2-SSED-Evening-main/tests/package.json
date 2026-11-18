@@ -1,0 +1,9 @@
+{
+  "name": "taskflow-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "jest --runInBand" },
+  "dependencies": { "supertest": "^7.0.0" },
+  "devDependencies": { "jest": "^29.7.0" }
+}
